@@ -1,8 +1,8 @@
 **Sun and Surf Forecast app**
 
-Live version of the web-app: (https://sunandsurf.netlify.app/)
+# Live version of the web-app: (https://sunandsurf.netlify.app/)
 
-This is a website made with nodeJS, Vite, JavaScript, HTML and scss. 
+## This is a website made with nodeJS, Vite, JavaScript, HTML and scss. 
 It makes it possible to search for a place and use Fetch API to request local weather, UV index, sunrise/sunset, and the local surf forecast information.
 It uses multiple API calls from different sources - nominatim Open Street Map API, Open Meteo weather/marine API, Open Meteo geocoding API. 
 
